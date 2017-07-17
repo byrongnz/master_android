@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "94185296860",
+    "firebase_url": "https://proteco20171.firebaseio.com",
+    "project_id": "proteco20171",
+    "storage_bucket": "proteco20171.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94185296860:android:ec96e404ea0af5d8",
+        "android_client_info": {
+          "package_name": "com.example.marco.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94185296860-spa902lh7nt5fand09q8pnk3li0m52og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA03PmXU5rKphHj_ZZyIUAsrrM9KVnYJ70"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

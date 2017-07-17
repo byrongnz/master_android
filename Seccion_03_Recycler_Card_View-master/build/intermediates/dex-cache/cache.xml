@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zarza/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/zarza/Desktop/Seccion_03_Recycler_Card_View-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_eb2d78d33467ff80e5e59384fa2efbe3f5402576/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zarza/Desktop/Seccion_03_Recycler_Card_View-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/zarza/Desktop/Seccion_03_Recycler_Card_View-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_b09631ae601295af957ea65dd193cbc6af2d537c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zarza/Desktop/Seccion_03_Recycler_Card_View-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/zarza/Desktop/Seccion_03_Recycler_Card_View-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_c482acf2fd9438b227c91bcbe0943d54dc4015b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zarza/Desktop/Seccion_03_Recycler_Card_View-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/zarza/Desktop/Seccion_03_Recycler_Card_View-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_4534e6971fbc3eb97ac282547c458709fb1f6d88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zarza/Desktop/Seccion_03_Recycler_Card_View-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/zarza/Desktop/Seccion_03_Recycler_Card_View-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_a6c4696eb4ff37bb12de13f837d0491fe31e773b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zarza/Desktop/Seccion_03_Recycler_Card_View-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/zarza/Desktop/Seccion_03_Recycler_Card_View-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_b6babeb7cf61512a55433d390bbaf9b2e32007e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zarza/Desktop/Seccion_03_Recycler_Card_View-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/Users/zarza/Desktop/Seccion_03_Recycler_Card_View-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.1.0_372f6603be5c913579c54bd8b59845c95c684bbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zarza/Desktop/Seccion_03_Recycler_Card_View-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zarza/Desktop/Seccion_03_Recycler_Card_View-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_88e810a227bdcc9c3ba025c5b2951be4c3d2091c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zarza/Desktop/Seccion_03_Recycler_Card_View-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/zarza/Desktop/Seccion_03_Recycler_Card_View-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_cf03cbc5c629b716a93a3d80a3064178413c4858/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zarza/Desktop/Seccion_03_Recycler_Card_View-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d6b93ded0aa10e6db4b6690f2a16b53a964283a3">
+        <dex dex="/Users/zarza/Desktop/Seccion_03_Recycler_Card_View-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e2a5238980ba09ecab68c1ab8e483ea8c0243b29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zarza/Desktop/Seccion_03_Recycler_Card_View-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/zarza/Desktop/Seccion_03_Recycler_Card_View-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_eb43358404c2a36882a7943fca0b1529bdf0633a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zarza/Desktop/Seccion_03_Recycler_Card_View-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/zarza/Desktop/Seccion_03_Recycler_Card_View-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_29488eff94ed846e13baf78c298f268e5b160a64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zarza/Desktop/Seccion_03_Recycler_Card_View-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/zarza/Desktop/Seccion_03_Recycler_Card_View-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_41bca9fc4f0e2a6176cae9cf84d6130fee8c1da8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zarza/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/zarza/Desktop/Seccion_03_Recycler_Card_View-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_121e04bfeabbb28229e1b2c767ce269d6c927ffd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zarza/Desktop/Seccion_03_Recycler_Card_View-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="45bcf906223fa1b87f20cf7d8c093aa4c95c22ee">
+        <dex dex="/Users/zarza/Desktop/Seccion_03_Recycler_Card_View-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_001a45e7d69b3922fc17d8243f66404a2adb4090/classes.dex" />
+    </item>
+
+</items>
